@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanMurigu
-- 👀 I’m interested in web development,cyber security,AI and Data Science.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in Software development,cyber security,AI and Data Science.
+- 🌱 I’m currently learning Software engineering.
 - 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me murigukingara@gmail.com,_murigu on Instagram 
 
